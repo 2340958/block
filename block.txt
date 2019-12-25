@@ -1,1 +1,2 @@
 20min.ch
+*.20min.ch
